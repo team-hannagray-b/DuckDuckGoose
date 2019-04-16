@@ -1,6 +1,6 @@
 # DuckDuckGoose
-Allows users to watch free movies. Without paying a fee.
-Free Movie Application for College Students
+Allows users to watch trailers of upcoming movies. An being able to purchase ticekts from the nearest theater or online.
+Movie Preview Application for College Students
 ** 
 Hanna Zegraw
 Armando Gray
@@ -18,15 +18,15 @@ Yurik Bethune
 
 ## Overview
 ### Description
-Allows users to watch free movies without creating a account and also enables users to review movies after watching them by giving them a rating or a comment. It is avaliable for IPhone and Android Apps.  
+Allows users to watch movie trailers for upcoming movies in Theaters. Allowing users to select a movie faster and more efficent. It is avaliable for IPhone and Android Apps.  
 
 ### App Evaluation
 
 - **Category:** Entertainment
 - **Mobile:** Avaliable for Mobile devices.
-- **Story:** Allows users to watch free movies. Without paying a fee.
+- **Story:** Allows users to watch movie trailers. Link to purchase tickets
 - **Market:** Anyone could enjoy this app. Ability to rate a movie or leave feadback.
-- **Habit:** Users can explore endless genres of movies free of charge. 
+- **Habit:** Users can explore endless genres of movie selections.
 - **Scope:** DuckDuckGoose started out extremely narrow focused. However, now users can post feedback and rate under movies.
 
 ## Product Spec
@@ -35,13 +35,13 @@ Allows users to watch free movies without creating a account and also enables us
 
 **Required Must-have Stories**
 
-* User doesn't isn't required to have an Account
+* User aren't required to have an Account
 
 
 **Optional Nice-to-have Stories**
 
-* Able to download Movies to Mobile Device if wanted
-* Saves User position in the Movie if user clicks off
+* Able to preview Movies on Mobile Device if wanted
+* Saves User favorite movie selections, even if user clicks off
 * Clear HD Quailty 
 
 
@@ -53,14 +53,13 @@ Allows users to watch free movies without creating a account and also enables us
    * Movie Length
    * Movie Published Date
    * Movie Views 
-   * MOvie Link Download 
-   * Movie Link to Watch 
+   * Movie Link to Purchase tickets
    * Movie Titles
    * Movie Description
    
-* Detail (Movie Download or Loading Screen)
-   * Downloading Movie Button
+* Detail (Movie Detail Screen)
    * Play Button
+   * Trailer of movie
    * Volume 
    * Theater mode 
    * Full Screen Mode 
@@ -70,18 +69,18 @@ Allows users to watch free movies without creating a account and also enables us
 
 **Tab Navigation** (Tab to Screen)
 
-* Download 
-* Watch
+* Link to Purchase tickets
+* Watch Trailer
 * More Description
 
 **Flow Navigation** (Screen to Screen)
 
 * Movie Selction
-   * Picking of the Movie Selected by User
+   * Picking of the Movies Selected by User
    
-* Movie Download or Watching
-   * Link to Download Movie 
-   * Watch Movie Selected 
+* Movie Watching
+   * Link to Purchase Movie ticket 
+   * Watch Movie Preview Selected 
    * Gain futher Info about Movie Selceted
   
 

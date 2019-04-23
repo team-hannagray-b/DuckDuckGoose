@@ -18,7 +18,7 @@ Yurik Bethune
 
 ## Overview
 ### Description
-Allows users to watch movie trailers for upcoming movies in Theaters. Allowing users to select a movie faster and more efficent. It is avaliable for IPhone and Android Apps.  
+Allows users to watch movie trailers for upcoming movies in Theaters. Allowing users to select a movie faster and more efficent. It is avaliable for IPhone and Android Apps.
 
 ### App Evaluation
 
@@ -89,6 +89,7 @@ Allows users to watch movie trailers for upcoming movies in Theaters. Allowing u
 <https://www.figma.com/file/gk1obDQCDRdEn4WDgWM6zxcl/Untitled?node-id=0%3A1>
 
 ### [BONUS] Digital Wireframes & Mockups
+<https://github.com/team-hannagray-b/DuckDuckGoose/edit/master/README.md>
 
 ### [BONUS] Interactive Prototype
 <https://www.figma.com/proto/gk1obDQCDRdEn4WDgWM6zxcl/Untitled?node-id=0%3A1&scaling=min-zoom>
